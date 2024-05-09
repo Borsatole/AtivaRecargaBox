@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+}
+
+
+header .logotipo {
+    width: 70%;
+}
+
+header nav {
+    display: none;
+}
+
+.burguer_menu {
+    display: block;
+}
+
+
+main h1 {
+    font-size: 1.2rem;
+}
+
+#cards {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;
+        justify-content: center;
+        justify-items: center;
+}
+.max-w-sm {
+    max-width: 25rem;
+}
+
+.card_dowload {
+    width: 90%;
+}
+
+header .burguer {
+    display: flex;
+}
