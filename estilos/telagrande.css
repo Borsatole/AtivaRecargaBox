@@ -37,7 +37,7 @@ header .logotipo {
     display: flex;
     height: 90%;
     width: 25%;
-    background-image: url(../imagens/Logotipo.png);
+    background-image: url("../Imagens/headlogo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
