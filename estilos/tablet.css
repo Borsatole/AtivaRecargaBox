@@ -16,6 +16,12 @@ main h1 {
     font-size: 1.2rem;
 }
 
+.text-xl {
+    height: auto;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
 
 #cards {
     display: grid;

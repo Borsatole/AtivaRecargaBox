@@ -37,7 +37,7 @@ header .logotipo {
     display: flex;
     height: 90%;
     width: 25%;
-    background-image: url("../Imagens/headlogo.png");
+    background-image: url(../imagens/Logotipo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -107,6 +107,12 @@ main h1 {
 .text-3xl {
     font-size: 1.563rem;
     line-height: 2.25rem;
+}
+.text-xl {
+    text-align: center;
+    height: 6.4rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 
 .card_dowload {
