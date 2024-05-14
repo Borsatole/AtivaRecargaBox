@@ -15,6 +15,9 @@ rodape.innerHTML = `<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8"
                           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Outras Recargas</h2>
                           <ul class="text-gray-500 dark:text-gray-400 font-medium">
                               <li class="mb-4">
+                                  <a href="https://unitv5g.com/" class="hover:underline" title="link para site parceiro da AtivaRecargabox">unitv5g.com</a>
+                              </li>
+                              <li class="mb-4">
                                   <a href="https://alphaplaytv.com/" class="hover:underline" title="link para site parceiro da AtivaRecargabox">alphaplaytv.com</a>
                               </li>
                               <li class="mb-4">
