@@ -1,125 +1,125 @@
 [
      
+  {
+     "titulo": "Recarga Mensal Alphaplay (30dias)",
+     "imagem": "Cards/alphaplay_mensal.png",
+     "preco": "R$ 19,90"
+   },
+  {
+     "titulo": "Recarga Trimestral Alphaplay (90dias)",
+     "imagem": "Cards/alphaplay_trimestral.png",
+     "preco": "R$ 49,90"
+   },
+   {
+     "titulo": "Recarga Semestral Alphaplay (180dias)",
+     "imagem": "Cards/alphaplay_semestral.png",
+     "preco": "R$ 139,90"
+   },
+   {
+     "titulo": "Recarga Anual Alphaplay (365dias)",
+     "imagem": "Cards/alphaplay_anual.png",
+     "preco": "R$ 179,90"
+   },
+   {
+     "titulo": "Recarga Mensal TvExpress (30dias)",
+     "imagem": "Cards/tvexpress_mensal.png",
+     "preco": "R$ 19,90"
+   },
+   {
+     "titulo": "Recarga Anual TvExpress (365dias)",
+     "imagem": "Cards/tvexpress_anual.png",
+     "preco": "R$ 179,90"
+   },
+   {
+     "titulo": "Recarga Mensal MFC (30dias)",
+     "imagem": "Cards/myfamilycinema_mensal.png",
+     "preco": "R$ 14,90"
+   },
+   {
+     "titulo": "Recarga Anual MFC (365dias)",
+     "imagem": "Cards/myfamilycinema_anual.png",
+     "preco": "R$ 84,90"
+   },
+   {
+     "titulo": "Recarga Mensal Unitv (30dias)",
+     "imagem": "Cards/unitv_mensal.png",
+     "preco": "R$ 17,90"
+    },
+    {
+     "titulo": "Recarga Trimestral Unitv (90dias)",
+     "imagem": "Cards/unitv_trimestral.png",
+     "preco": "R$ 49,90"
+     },
+    {
+       "titulo": "Recarga Semestral Unitv (180dias)",
+       "imagem": "Cards/unitv_semestral.png",
+       "preco": "R$ 74,90"
+     },
+    {
+       "titulo": "Recarga Anual Unitv (365dias)",
+       "imagem": "Cards/unitv_anual.png",
+       "preco": "R$ 129,90"
+     },
+   {
+     "titulo": "Recarga Mensal Warez (30dias)",
+     "imagem": "Cards/warez_mensal.png",
+     "preco": "R$ 24,90"
+   },
+  {
+     "titulo": "Recarga Trimestral Warez (90dias)",
+     "imagem": "Cards/warez_trimestral.png",
+     "preco": "R$ 64,90"
+   },
+   {
+     "titulo": "Recarga Semestral Warez (180dias)",
+     "imagem": "Cards/warez_semestral.png",
+     "preco": "R$ 109,90"
+   },
+   {
+     "titulo": "Recarga Anual Warez (365dias)",
+     "imagem": "Cards/warez_anual.png",
+     "preco": "R$ 169,90"
+   },
+   {
+      "titulo": "Recarga Mensal P2Cine (30dias)",
+      "imagem": "Cards/p2cine_mensal.png",
+      "preco": "R$ 24,90"
+    },
+   {
+      "titulo": "Recarga Trimestral P2Cine (90dias)",
+      "imagem": "Cards/p2cine_trimestral.png",
+      "preco": "R$ 64,90"
+    },
+    {
+      "titulo": "Recarga Semestral P2Cine (180dias)",
+      "imagem": "Cards/p2cine_semestral.png",
+      "preco": "R$ 109,90"
+    },
+    {
+      "titulo": "Recarga Anual P2Cine (365dias)",
+      "imagem": "Cards/p2cine_anual.png",
+      "preco": "R$ 169,90"
+    },
+    {
+       "titulo": "Recarga Mensal Uniplay (30dias)",
+       "imagem": "Cards/uniplay_mensal.png",
+       "preco": "R$ 24,90"
+     },
+    {
+       "titulo": "Recarga Trimestral Uniplay (90dias)",
+       "imagem": "Cards/uniplay_trimestral.png",
+       "preco": "R$ 64,90"
+     },
      {
-        "titulo": "Recarga Mensal Alphaplay (30dias)",
-        "imagem": "Cards/alphaplay_mensal.png",
-        "preco": "R$ 19,90"
-      },
+       "titulo": "Recarga Semestral Uniplay (180dias)",
+       "imagem": "Cards/uniplay_semestral.png",
+       "preco": "R$ 109,90"
+     },
      {
-        "titulo": "Recarga Trimestral Alphaplay (90dias)",
-        "imagem": "Cards/alphaplay_trimestral.png",
-        "preco": "R$ 49,90"
-      },
-      {
-        "titulo": "Recarga Semestral Alphaplay (180dias)",
-        "imagem": "Cards/alphaplay_semestral.png",
-        "preco": "R$ 74,90"
-      },
-      {
-        "titulo": "Recarga Anual Alphaplay (365dias)",
-        "imagem": "Cards/alphaplay_anual.png",
-        "preco": "R$ 129,90"
-      },
-      {
-        "titulo": "Recarga Mensal TvExpress (30dias)",
-        "imagem": "Cards/tvexpress_mensal.png",
-        "preco": "R$ 24,99"
-      },
-      {
-        "titulo": "Recarga Anual TvExpress (365dias)",
-        "imagem": "Cards/tvexpress_anual.png",
-        "preco": "R$ 149,90"
-      },
-      {
-        "titulo": "Recarga Mensal MFC (30dias)",
-        "imagem": "Cards/myfamilycinema_mensal.png",
-        "preco": "R$ 19,90"
-      },
-      {
-        "titulo": "Recarga Anual MFC (365dias)",
-        "imagem": "Cards/myfamilycinema_anual.png",
-        "preco": "R$ 99,90"
-      },
-      {
-        "titulo": "Recarga Mensal Unitv (30dias)",
-        "imagem": "Cards/unitv_mensal.png",
-        "preco": "R$ 19,90"
-       },
-       {
-        "titulo": "Recarga Trimestral Unitv (90dias)",
-        "imagem": "Cards/unitv_trimestral.png",
-        "preco": "R$ 49,90"
-        },
-       {
-          "titulo": "Recarga Semestral Unitv (180dias)",
-          "imagem": "Cards/unitv_semestral.png",
-          "preco": "R$ 119,90"
-        },
-       {
-          "titulo": "Recarga Anual Unitv (365dias)",
-          "imagem": "Cards/unitv_anual.png",
-          "preco": "R$ 149,90"
-        },
-      {
-        "titulo": "Recarga Mensal Warez (30dias)",
-        "imagem": "Cards/warez_mensal.png",
-        "preco": "R$ 24,90"
-      },
-     {
-        "titulo": "Recarga Trimestral Warez (90dias)",
-        "imagem": "Cards/warez_trimestral.png",
-        "preco": "R$ 64,90"
-      },
-      {
-        "titulo": "Recarga Semestral Warez (180dias)",
-        "imagem": "Cards/warez_semestral.png",
-        "preco": "R$ 109,90"
-      },
-      {
-        "titulo": "Recarga Anual Warez (365dias)",
-        "imagem": "Cards/warez_anual.png",
-        "preco": "R$ 169,90"
-      },
-      {
-         "titulo": "Recarga Mensal P2Cine (30dias)",
-         "imagem": "Cards/p2cine_mensal.png",
-         "preco": "R$ 24,90"
-       },
-      {
-         "titulo": "Recarga Trimestral P2Cine (90dias)",
-         "imagem": "Cards/p2cine_trimestral.png",
-         "preco": "R$ 64,90"
-       },
-       {
-         "titulo": "Recarga Semestral P2Cine (180dias)",
-         "imagem": "Cards/p2cine_semestral.png",
-         "preco": "R$ 109,90"
-       },
-       {
-         "titulo": "Recarga Anual P2Cine (365dias)",
-         "imagem": "Cards/p2cine_anual.png",
-         "preco": "R$ 169,90"
-       },
-       {
-          "titulo": "Recarga Mensal Uniplay (30dias)",
-          "imagem": "Cards/uniplay_mensal.png",
-          "preco": "R$ 24,90"
-        },
-       {
-          "titulo": "Recarga Trimestral Uniplay (90dias)",
-          "imagem": "Cards/uniplay_trimestral.png",
-          "preco": "R$ 64,90"
-        },
-        {
-          "titulo": "Recarga Semestral Uniplay (180dias)",
-          "imagem": "Cards/uniplay_semestral.png",
-          "preco": "R$ 109,90"
-        },
-        {
-          "titulo": "Recarga Anual Uniplay (365dias)",
-          "imagem": "Cards/uniplay_anual.png",
-          "preco": "R$ 169,90"
-        }
+       "titulo": "Recarga Anual Uniplay (365dias)",
+       "imagem": "Cards/uniplay_anual.png",
+       "preco": "R$ 169,90"
+     }
 
-    
- ]
+ 
+]
