@@ -26,9 +26,7 @@ rodape.innerHTML = `<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8"
                               <li class="mb-4">
                                   <a href="https://codigoderecargaunitv.com/" class="hover:underline" title="link para site parceiro da AtivaRecargabox">codigoderecargaunitv.com</a>
                               </li>
-                              <li class="mb-4">
-                                  <a href="https://vendas.recargaunitvprecobom.com/" class="hover:underline" title="link para site parceiro da AtivaRecargabox">vendas.recargaunitvprecobom.com</a>
-                              </li>
+                              
                               
                           </ul>
                       </div>
